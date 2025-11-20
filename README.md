@@ -1,5 +1,5 @@
-# 💫 About Me:
-## ⚡ About Me<br>* 💻 I’m a developer passionate about **Python** and **Front-end Development**.<br>* 🌱 I’m currently deepening my knowledge in **JavaScript** and open-source contribution.<br>* 🤝 I believe in the power of community and love collaborating on scalable projects.<br>* 🎯 **Goal:** To build accessible, modern web experiences.
+#  About Me:
+## * 💻 I’m a developer passionate about **Python** and **Front-end Development**.<br>* 🌱 I’m currently deepening my knowledge in **JavaScript** and open-source contribution.<br>* 🤝 I believe in the power of community and love collaborating on scalable projects.<br>* 🎯 **Goal:** To build accessible, modern web experiences.
 
 
 ## 🌐 Socials:
